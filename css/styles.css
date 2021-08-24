@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+*{
+    margin: 0; padding:0;}
+
+body {
+    color:white;
+    font-family: Urbanist;
+    text-align: center;
+    background-color: black;
+    background-image: url("https://images.hdqwalls.com/wallpapers/fortnite-season-4-nexus-war-ss.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.card{
+   margin-top: 25%;
+    margin-top: 20px;
+    color: black;
+    align-items: center;
+    margin: auto;
+    border-radius: 4%;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    
+}
+.card-img-top {
+    width: 15rem;
+}
+
+.card h1 {
+    font-weight: 700;
+}
+
+.free-vbucks {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+p{
+    font-size: 20px;
+}
+
+.garv {
+    margin-top: 2rem;
+}
